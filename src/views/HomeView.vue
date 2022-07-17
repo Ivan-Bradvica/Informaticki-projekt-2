@@ -199,7 +199,7 @@ export default {
   methods: {
     //Fetching data from API
     getNewsData: function () {
-      let final_url ='https://gnews.io/api/v4/search?q=example&token=b777c04047e87d998e44bba48e583ab3&lang=en'
+      let final_url ='https://gnews.io/api/v4/search?q=example&token=100235d6d84599162449c3c4acd5b75a'
       this.axios
         .get(
          final_url,
