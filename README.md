@@ -1,4 +1,5 @@
-# projekt
+# informaticki projekt 2
+#https://stock-market-projekt.netlify.app/ 
 
 ## Project setup
 ```
